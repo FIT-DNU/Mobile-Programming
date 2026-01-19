@@ -32,7 +32,7 @@ Tạo file **`lib/config/api_config.dart`** để cấu hình thông tin API:
 ```dart
 class ApiConfig {
   // Thay đổi base URL phù hợp với môi trường của bạn
-  static const String baseUrl = "https://your-api-domain.com";
+  static const String baseUrl = "https://lab-api.aiotlab.edu.vn";
   
   // Cho development (Android Emulator)
   // static const String baseUrl = "http://10.0.2.2:5000";
